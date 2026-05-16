@@ -1,0 +1,23 @@
+/*arquivo: index (4).html*/
+
+body {
+    color: #EDEDED;
+    background: #0B132B;
+}
+
+/* Titulo */
+h1, h2{
+    color: #3A86FF;
+}
+
+/* Paragrafos */
+p{ 
+    color: #EDEDED;
+
+}
+
+/* Links */
+a {
+    color: #3A86FF;
+
+}
